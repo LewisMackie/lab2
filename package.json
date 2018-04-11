@@ -1,0 +1,29 @@
+{
+  "name": "lab2",
+  "version": "0.1.0",
+  "description": "Hi",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LewisMackie/lab2.git"
+  },
+  "keywords": [
+    "lab2"
+  ],
+  "author": "Mackiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LewisMackie/lab2/issues"
+  },
+  "homepage": "https://github.com/LewisMackie/lab2#readme",
+  "devDependencies": {
+    "mocha": "^5.0.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
+}
